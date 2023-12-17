@@ -105,7 +105,7 @@ public class ObserverPattern {
         station.updateChanged();
 
         //update temparature
-        station.setTemparature(43.2f);
+        station.setTemparature(43.3f);
 
 
     }
